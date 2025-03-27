@@ -1,0 +1,11 @@
+{
+  "name": "uber_clone",
+  "version": "1.0.0",
+  "description": "this is a uber clone app  with mern tech.....",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bireswar",
+  "license": "ISC"
+}
